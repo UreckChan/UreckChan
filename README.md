@@ -23,7 +23,6 @@ Apasionado por construir aplicaciones web **responsivas y centradas en el usuari
 
 ### 🌐 Encuéntrame en...  
 <p>
-  <a href="https://ureckchan.github.io/Portfolio/"><img src="https://img.icons8.com/external-others-inmotus-design/48/external-portfolio-resume-others-inmotus-design.png"/></a>
   <a href="https://www.instagram.com/uriel_gom3z"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <a href="https://www.linkedin.com/in/uriel-gomez-becerril"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://www.facebook.com/UrielGomezYT"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
