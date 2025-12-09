@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZoY3ZhM3F1cG5uNWlwZGQ0Zzh4ZDJranBxaG93MHl5bzA0bDJkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="35%">
 
-**Desarrollador FullStack | HTML | CSS | JavaScript | React | NodeJS | SQL | GIT**  
+**Desarrollador FullStack | HTML | CSS | JavaScript | React | NextJS | NodeJS | SQL | GIT**  
 
 Apasionado por construir aplicaciones web **responsivas y centradas en el usuario** utilizando **HTML5, CSS, JavaScript** y frameworks modernos.  
 
