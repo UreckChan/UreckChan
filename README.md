@@ -14,16 +14,6 @@ Apasionado por construir aplicaciones web **responsivas, escalables y centradas 
 
 ---
 
-### ⚡ Experiencia con Next.js
-
-* 🔹 Desarrollo de aplicaciones con **App Router y Pages Router**
-* 🔹 **Renderizado del lado del servidor (SSR)** y **Static Site Generation (SSG)**
-* 🔹 Manejo de **API Routes** para backend ligero
-* 🔹 Integración con bases de datos y servicios externos
-* 🔹 Optimización de rendimiento y SEO
-
----
-
 ### 🚀 Tecnologías y herramientas
 
 * 💻 **Lenguajes:** HTML, CSS, JavaScript, SQL
